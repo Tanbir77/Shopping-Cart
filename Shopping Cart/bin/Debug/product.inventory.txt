@@ -1,0 +1,11 @@
+1,Floo Powder,65,5  
+2,Broomstick,1992,3  
+3,Portkey,19999,1  
+4,Cauldron,16,100
+5,Howler,19,200
+6,Pensieve,99996,100
+7,Wand    ,1996,200
+8,Bludger,20,4
+9,Remebrall,122,5
+10,Veritaserum,1998,1
+11,Acnes   ,14,1
